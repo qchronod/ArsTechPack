@@ -1,7 +1,8 @@
 #!/bin/sh
 
 echo "Emptying Release Directory..."
-rm -rf release/*
+rm -rf release
+mkdir release
 
 echo "Integrating Client..."
 cp -r client release/
