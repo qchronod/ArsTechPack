@@ -41,13 +41,13 @@ ICBM Explosion		1.2.0.114	-->		removed
 ICBM Sentry			1.2.0.114	-->		removed
 immibus core		55.1.2		-->		55.1.6
 immibus peripherals	55.0.1		-->		55.0.4
-Inventory Tweaks	1.54		-->		no_change
+Inventory Tweaks	1.54		-->		removed
 ironchest univ		5.2.6.412	-->		5.2.8.446
 Logistics Pipes		0.7.3.6		-->		0.7.3.dev.622
 Magical Crops		1.5.1.2.1.0	-->		1.5.1.2.1.2a
-Mekanism Generators	5.5.6.76	-->		5.5.6.121
-Mekanism Tools		5.5.6.76	-->		5.5.6.121		
-Mekanism			5.5.6.76	-->		5.5.6.121
+Mekanism Generators	5.5.6.76	-->		5.5.6.124
+Mekanism Tools		5.5.6.76	-->		5.5.6.124		
+Mekanism			5.5.6.76	-->		5.5.6.124
 MFFS				3.0.3.129	-->		removed
 MineChem			3.0.0.193	-->		3.0.0.253
 MineFactoryReloaded 2.6.2-924	-->		2.6.4-975
@@ -66,7 +66,7 @@ Pam's Wee Flowers	1.01		-->		1.03
 Project Bench		1.7.5		-->		no_change
 ReiMinimap			3.3_06		-->		no_change
 RottenFleshToLeather 1.5.1		-->		no_change
-Secret Rooms		4.6.0.283	-->		no_change
+Secret Rooms		4.6.0.283	-->		removed
 SimplePowerStorage  1.0-10		-->		no_change
 Soul Shards			1.0.34		-->		removed
 StartingInventory	1.5.2.r01	-->		removed
@@ -78,30 +78,20 @@ Useful Food			1.4.2		-->		1.4.3
 
 NEW MODS
 ============
-Flatbedrock			1.1.1-32
+Backpacks			1.12.15
 Bibliocraft			1.3.3
-Ruins				1.5.2
-Ropes+				1.5.2
-Infernal Mobs		1.5.2
-Mo'Creatures		5.2.3
-CustomMobSpawner	2.2.2
 Biomes O'Plenty		0.5.5
-Twilight Forest		1.18.2
-Dynamic Liquid Tank	0.1.31
-<<<<<<< HEAD
+CustomMobSpawner	2.2.2
 Damage Indicators	2.6.9
-Backpacks			1.12.15
-WR-CBE Core			1.4.0.1
-WR-CBE Logic		1.4.0.3
-WR-CBE Addons		1.4
+Dynamic Liquid Tank	0.1.31
+Flatbedrock			1.1.1-32
 ForgeMultipart		1.0.0.119
+Infernal Mobs		1.5.2
 Liquid Energy		Beta5
-=======
-Liquid Energy		Beta5
-Backpacks			1.12.15
-Damage Indicators	2.7.0.1
-Forge Multipart		1.0.0.119
+Mo'Creatures		5.2.3
+Ropes+				1.5.2
+Ruins				1.5.2
+Twilight Forest		1.18.2
+WR-CBE Addons		1.4
 WR-CBE Core			1.4.0.1
 WR-CBE Logic		1.4.0.3
-WR-CBE Addons		1.4
->>>>>>> origin/dev-branch
