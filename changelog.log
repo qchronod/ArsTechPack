@@ -1,3 +1,14 @@
+Project Re-architecture
+=======================
+Changed file layout to reduce duplication of all files
+All shared files are in config/coremod/mod folders
+Only Client/Server specific files are in seperate branches
+This should reduce errors in each branch having different versions
+Note to remember to combine main folders with each branch for releases
+
+Also was able to remove several more unneeded config files for non-existant mods
+
+
 Version 0.5.1
 =============
 Replaced corrupted config files with new copies
