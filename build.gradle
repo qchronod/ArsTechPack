@@ -15,6 +15,7 @@ task server(type: Sync) {
 	from 'server'
 	from 'common'
 	into 'build/server/'
+	filter(ReplaceTokens, tokens: [version: project.version])
 }
 
 task printVersion << {
