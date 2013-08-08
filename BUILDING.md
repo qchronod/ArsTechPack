@@ -19,6 +19,6 @@ Gradle is a simple to implement, Java based build system that should work on any
 Build Instructions
 ------------------
 
-- From the project directory, run "gradle"
+- In the project directory, from the command line, run "gradle"
 
 If successful, the client and server distributions will be waiting for you in the build directory.
