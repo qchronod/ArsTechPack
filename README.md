@@ -10,17 +10,17 @@ Installation Instructions
 ---------------------------------------
     by Minstrel 
 
-- Download zip of the project
+- Download the latest Release of the project from https://github.com/qchronod/ArsTechPack/releases
 - Extract the ArsTech Pack folder
 - Run MultiMC (http://forkk.net/MultiMC4.html)
 - Click the Open Instance Folder button
-- Move/copy ArsTech Pack folder into the Instance folder.
+- Move or copy ArsTech Pack folder into the Instance folder.
 - Click the Refresh button in MultiMC and the instance will appear (ArsTech Pack)
 - Right click on ArsTech Pack and click Settings in the pop-up menu
 - In the Java tab, adjust the maximum Java memory to your desired value
 - Also in the Java tab, enter "-XX:MaxPermSize=128m" in the JVM Arguments field
 - Close the settings dialog
-- Double click on the ArsTech pack icon to launch Minecraft
+- Double click on the ArsTech Pack icon to launch Minecraft
 - In the Login dialog, click the Force Update button
 - Check that MC says you have 11billion mods loaded, if not, check that forge .738 is in the instMods folder
 - Log into the test server @ qchronod.diskstation.me:25565

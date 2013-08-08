@@ -1,0 +1,23 @@
+import org.apache.tools.ant.filters.*
+
+version = "git describe --tags".execute().text.trim()
+
+defaultTasks 'client', 'server'
+
+task client(type: Sync) {
+	from 'client'
+	from 'common'
+	into 'build/client/'
+	filter(ReplaceTokens, tokens: [version: project.version])
+}
+
+task server(type: Sync) {
+	from 'server'
+	from 'common'
+	into 'build/server/'
+}
+
+task printVersion << {
+	print project.version
+}
+
