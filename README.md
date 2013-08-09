@@ -17,8 +17,8 @@ Installation Instructions
 - Move or copy ArsTech Pack folder into the Instance folder.
 - Click the Refresh button in MultiMC and the instance will appear (ArsTech Pack)
 - Before launching Minecraft, be sure that you have increased the amount of RAM available to Minecraft.  This mod pack requires a larger than standard amount of RAM to run properly.  In MultiMC, you may alter the amount of RAM allocated:
--- To all instances: in the Settings Dialog, under the Java Tab, in the Maximum Memory Allocation field.
--- To just one instance: from the instance Settings Dialog, available from the context menu of the instance. Otherwise, same as above.
+  - To all instances: in the Settings Dialog, under the Java Tab, in the Maximum Memory Allocation field.
+  - To just one instance: from the instance Settings Dialog, available from the context menu of the instance. Otherwise, same as above.
 - Double click on the ArsTech Pack icon to launch Minecraft
 - Check that MC says you have 11billion mods loaded, if not, check that forge .738 is in the instMods folder
 - Log into the test server @ qchronod.diskstation.me:25565
