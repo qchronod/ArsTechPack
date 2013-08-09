@@ -1,21 +1,42 @@
+apply plugin: 'java'
 import org.apache.tools.ant.filters.*
 
-version = "git describe --tags".execute().text.trim()
+version = 'git describe --tags'.execute().text.trim()
+buildDir = file('build/' + version)
+def clientBuildDir = file("${project.buildDir}/${project.name}-Client-${project.version}")
+def serverBuildDir = file("${project.buildDir}/${project.name}-Server-${project.version}")
 
-defaultTasks 'client', 'server'
+defaultTasks 'clean', 'client', 'server', 'distribution'
 
-task client(type: Sync) {
-	from 'client'
-	from 'common'
-	into 'build/client/'
-//	filter(ReplaceTokens, tokens: [version: project.version])
+task client(type: Copy) {
+	from ('client') {
+		exclude 'instance.cfg'
+	}
+	from ('common')
+	from ('client/instance.cfg') {
+		filter(ReplaceTokens, tokens: [version: project.version])
+	}
+	into clientBuildDir
+}
+client << {
+	println "Building Client into $clientBuildDir"
 }
 
-task server(type: Sync) {
+task server(type: Copy) {
 	from 'server'
 	from 'common'
-	into 'build/server/'
-//	filter(ReplaceTokens, tokens: [version: project.version])
+	into serverBuildDir
+}
+server << {
+	println "Building Server into $serverBuildDir"
+}
+
+task distribution(type: Zip, dependsOn: client) {
+	from clientBuildDir
+	appendix = 'Client'
+}
+distribution << {
+	println 'Packaging Client for Distribution'
 }
 
 task printVersion << {
