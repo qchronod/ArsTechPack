@@ -26,8 +26,8 @@ bspkrs core			2.0.7		-->		2.0.9
 Buildcraft			3.5.3		-->		3.7.2
 Chococraft			2.8.5		-->		removed
 ComputerCraft		1.53		-->		unable to check
-Dimensional Anchor	55.0.1		-->		55.0.3
-Dimensional Doors   1.3.6RC1-73	-->		1.4.1RC1-194
+Dimensional Anchor	55.0.1		-->		removed
+Dimensional Doors   1.3.6RC1-73	-->		removed
 Dungeon Pack		1.5.2 v3	-->		removed
 Equiv Exchange 3	pre1h		-->		removed
 Enchanting Plus		1.14.6		-->		1.15.5
@@ -43,7 +43,7 @@ immibus core		55.1.2		-->		55.1.6
 immibus peripherals	55.0.1		-->		55.0.4
 Inventory Tweaks	1.54		-->		removed
 ironchest univ		5.2.6.412	-->		5.2.8.446
-Logistics Pipes		0.7.3.6		-->		0.7.3.dev.622
+Logistics Pipes		0.7.3.6		-->		0.7.3.dev.658
 Magical Crops		1.5.1.2.1.0	-->		1.5.1.2.1.2a
 Mekanism Generators	5.5.6.76	-->		5.5.6.124
 Mekanism Tools		5.5.6.76	-->		5.5.6.124		
@@ -56,8 +56,8 @@ ModPowSuit Addons	0.2.3.144	-->		0.2.3-165
 MonsterSpawnHilight 1.4.1.7		-->		no_change
 Mystcraft			0.10.4.00	-->		0.10.5.00
 Natura				2.1.rc2		-->		2.1.4
-NEI Plugins			1.0.9.3		-->		np_change
-Nether Ores			2.1.5-75	-->		no_change
+NEI Plugins			1.0.9.3		-->		no_change
+Nether Ores			2.1.5-75	-->		removed
 Obsidian Plates		1.5.0.13	-->		no_change
 OmniTools			3.1.4.0		-->		3.1.6.0
 Open CC Sensors		1.5.2.0		-->		no_change
@@ -89,9 +89,17 @@ ForgeMultipart		1.0.0.119
 Infernal Mobs		1.5.2
 Liquid Energy		Beta5
 Mo'Creatures		5.2.3
+Railcraft			7.3.0.0
 Ropes+				1.5.2
 Ruins				1.5.2
 Twilight Forest		1.18.2
 WR-CBE Addons		1.4
 WR-CBE Core			1.4.0.1
 WR-CBE Logic		1.4.0.3
+
+
+BUKKIT PLUGINS
+==============
+WorldEdit			5.5.7
+WorldGuard			5.7.5
+LapisPortals		1.3.9

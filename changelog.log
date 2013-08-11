@@ -1,3 +1,13 @@
+Version 0.7
+=============
+remove unwanted mods from pack
+start test on new map
+config fixes to spawn ruins in all biomes
+
+Version 0.6.0
+=============
+Lots of config changes and some minor mod updates
+
 Project Re-architecture
 =======================
 Changed file layout to reduce duplication of all files
