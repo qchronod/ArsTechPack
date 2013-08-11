@@ -2,3 +2,5 @@ release/*
 .DS_Store
 .gradle/*
 build/*
+*.log
+*.lck
