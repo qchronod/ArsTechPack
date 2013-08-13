@@ -80,15 +80,19 @@ NEW MODS
 ============
 Backpacks			1.12.15
 Bibliocraft			1.3.3
+Big Reactors		0.1.13A
 Biomes O'Plenty		0.5.5
 CustomMobSpawner	2.2.2
 Damage Indicators	2.6.9
 Dynamic Liquid Tank	0.1.31
 Flatbedrock			1.1.1-32
 ForgeMultipart		1.0.0.119
+Hats				1.3.3
 Infernal Mobs		1.5.2
 Liquid Energy		Beta5
 Mo'Creatures		5.2.3
+Portal Gun			1.5.2
+Power Converters	2.3.1-58
 Railcraft			7.3.0.0
 Ropes+				1.5.2
 Ruins				1.5.2
