@@ -9,6 +9,7 @@ We're now in feature freeze!  No more mods before we start playing for real, peo
 - No automated mining of the Overworld.  Use a Minecraft age, and keep the Overworld landscape clean.
 - Do not run a quarry without chunk loading your processing facility.
 - Don't use Mekanism Dynamic Tanks because they're crashy.  Store your liquids in Railcraft tanks.
+
 Enough with the don'ts: 
 - Please DO post issues on Github if you have problems.
 - Log into IRC: irc.arstechnica.com #minecraft
