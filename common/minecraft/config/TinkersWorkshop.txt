@@ -7,12 +7,15 @@
 block {
     I:Aggregator=3221
     I:Barricade=1633
+    I:"Birch Barricade"=4070
     I:"Clear Glass"=3223
     I:"Clear Stained Glass"=3225
     I:"Clear Stained Glass Pane"=3229
+    I:"Crafting Station"=3233
     I:"Drying Rack"=3227
     I:"Glass Pane"=3228
     I:"Held Item Block"=1552
+    I:"Jungle Barricade"=4071
     I:Landmine=1632
     I:"Lava Tank"=1553
     I:"Light Crystal"=3222
@@ -21,10 +24,12 @@ block {
     I:"Metal Storage"=1556
     I:"Multi Brick"=1557
     I:"Multi Brick Fancy"=4092
+    I:"Oak Barricade"=4072
     I:"Ore Berry One"=1558
     I:"Ore Berry Two"=1559
     I:"Ores Gravel"=1560
     I:"Ores Slag"=1561
+    I:Punji=3232
     I:"Redstone Machines"=3226
     I:"Seared Slab"=3230
     I:"Seared Table"=1562
@@ -32,6 +37,7 @@ block {
     I:"Special Soil"=1564
     I:"Speed Block"=1565
     I:"Speed Slab"=3231
+    I:"Spruce Barricade"=4073
     I:"Stained Glass"=3224
     I:"Stone Torch"=1566
     I:"Tool Forge"=4093
@@ -209,6 +215,7 @@ tools {
     B:"Add World Border"=false
     B:"Change Crafting Recipes"=false
     B:"Change Ghast drops to Gold Ingots"=false
+    B:"Necrotic modifier only heals on hostile mob kills"=false
     B:"Passive Health Regen"=true
     B:"Players drop heads on death"=false
     I:"World Border Radius"=1000
