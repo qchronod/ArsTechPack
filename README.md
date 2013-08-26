@@ -30,6 +30,6 @@ Installation Instructions
   - To just one instance: from the instance Settings Dialog, available from the context menu of the instance. Otherwise, same as above.
 - Double click on the ArsTech Pack icon to launch Minecraft
 - Check that MC says you have 11billion mods loaded, if not, check that forge .738 is in the instMods folder
-- Log into the test server @ qchronod.diskstation.me:25565
+- Log into the server @ minecraft.ceyah.org:25566
 - ?????
 - Profit!!!
