@@ -526,6 +526,15 @@
                     <steak id="364"/>
                     <cookedChicken id="366"/>
                     <bakedPotato id="393"/>
+					<cookedOstrich id="9094"/>
+					<cookedTurkey id="9101"/>
+					<cookedRat id="9108"/>
+					<cookedCrab id="9149"/>
+					<cookedSquid id="20302"/>
+					<friedEgg id="20307"/>
+					<cookedMutton id="20317"/>
+					<cookedVenison id="27987"/>
+					<cookedMeef id="28012"/>
                 </cookedFood>
                 <bread id="297"/>
                 <pumpkinPie id="400"/>
@@ -545,6 +554,11 @@
                     <rawBeef id="363"/>
                     <rawChicken id="365"/>
                     <potato id="392"/>
+					<rawTurkey id="9100"/>
+					<rawRat id="9107"/>
+					<rawMutton id="20328"/>
+					<rawVenison id="27986"/>
+					<rawMeef id="28011"/>
                 </rawFood>
             </edibleFood>
             <poisonedFood>
