@@ -1,0 +1,10 @@
+# Configuration file
+
+version_check_tracker {
+    S:StatusEffectHUD=v1.19(1.6.4)
+    S:TreeCapitator=ML 1.6.4.r01
+    S:Treecapitator=Forge 1.6.4.r06
+    S:bspkrsCore=v5.0(1.6.4)
+}
+
+

@@ -11,11 +11,3 @@
 #Creates a template with default values of 6 clusters of 16 ores (1000:1) in a 32-height Normal Distribution centered at y = 32. RetroGen Disabled:
 #NORMAL	testNormal	1000	1	16	6	32	16	false
 #
-UNIFORM	Uranite	1402	0	3	8	5	96	true
-UNIFORM	Quartz	1313	0	10	10	5	96	true
-UNIFORM	EnderOre	1447	0	6	10	5	96	true
-UNIFORM	Osmium	1513	0	8	8	5	96	true
-UNIFORM	Emerald	129	0	5	6	5	96	true
-UNIFORM	Apatite	1178	0	15	4	5	96	true
-UNIFORM	Aluminum	1561	5	6	6	5	96	true
-UNIFORM	Essence	1481	0	6	10	5	96	true

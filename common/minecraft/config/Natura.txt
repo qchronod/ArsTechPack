@@ -5,45 +5,110 @@
 ####################
 
 block {
-    I:Berry_Bush=1522
-    I:"Bloodwood Block"=1523
-    I:"Bloodwood Door"=1524
-    I:"Blue Glowshroom"=1616
-    I:Bookshelf=1617
-    I:"Cloud Block"=1525
-    I:"Crafting Table"=1618
-    I:Crops=1526
-    I:"Darkwood Leaves"=1619
-    I:"Darkwood Log"=1620
-    I:"Eucalyptus Door"=1527
-    I:Fence=1621
-    I:"Flora Leaves"=1528
-    I:Flower=1622
-    I:"Ghostwood Door"=1529
-    I:"Glowing Mushroom"=1623
-    I:"Green Glowshroom"=1624
-    I:"Hopseed Door"=1530
+    I:"Amaranth Button"=3338
+    I:"Amaranth Fence Gate"=3351
+    I:"Amaranth Pressure Plate"=3311
+    I:"Amaranth Stairs"=3298
+    I:"Amaranth Trapdoor"=3324
+    I:Berry_Bush=3257
+    I:"Bloodwood Block"=3263
+    I:"Bloodwood Button"=3334
+    I:"Bloodwood Door"=3268
+    I:"Bloodwood Fence Gate"=3347
+    I:"Bloodwood Pressure Plate"=3308
+    I:"Bloodwood Stairs"=3295
+    I:"Bloodwood Trapdoor"=3321
+    I:"Blue Glowshroom"=3273
+    I:Bookshelf=3284
+    I:"Cloud Block"=3253
+    I:"Crafting Table"=3283
+    I:Crops=3260
+    I:"Darkwood Button"=3341
+    I:"Darkwood Fence Gate"=3354
+    I:"Darkwood Leaves"=3272
+    I:"Darkwood Log"=3271
+    I:"Darkwood Pressure Plate"=3315
+    I:"Darkwood Stairs"=3302
+    I:"Darkwood Trapdoor"=3328
+    I:"Eucalyptus Door"=3264
+    I:"Eucalyputus Button"=3330
+    I:"Eucalyputus Fence Gate"=3343
+    I:"Eucalyputus Pressure Plate"=3304
+    I:"Eucalyputus Stairs"=3291
+    I:"Eucalyputus Trapdoor"=3317
+    I:Fence=3285
+    I:"Flora Leaves"=3259
+    I:Flower=3281
+    I:"Fusewood Button"=3342
+    I:"Fusewood Fence Gate"=3355
+    I:"Fusewood Pressure Plate"=3316
+    I:"Fusewood Stairs"=3303
+    I:"Fusewood Trapdoor"=3329
+    I:"Ghostwood Button"=3332
+    I:"Ghostwood Door"=3267
+    I:"Ghostwood Fence Gate"=3345
+    I:"Ghostwood Pressure Plate"=3306
+    I:"Ghostwood Stairs"=3293
+    I:"Ghostwood Trapdoor"=3319
+    I:"Glowing Mushroom"=3270
+    I:"Green Glowshroom"=3274
+    I:"Hopseed Button"=3335
+    I:"Hopseed Door"=3265
+    I:"Hopseed Fence Gate"=3348
+    I:"Hopseed Pressure Plate"=3309
+    I:"Hopseed Stairs"=3296
+    I:"Hopseed Trapdoor"=3322
     I:"Log Slab"=3290
-    I:"Nether Berry Bush"=1531
+    I:"Maple Button"=3336
+    I:"Maple Fence Gate"=3349
+    I:"Maple Pressure Plate"=3310
+    I:"Maple Stairs"=3297
+    I:"Maple Trapdoor"=3323
+    I:"Nether Berry Bush"=3255
     I:"Plank Slab One"=3288
     I:"Plank Slab Two"=3289
-    I:"Planks Block"=1532
-    I:"Purple Glowshroom"=1625
-    I:"Rare Leaves"=1626
-    I:"Rare Log"=1627
-    I:"Rare Sapling"=1628
-    I:"Redwood Bark Door"=1533
-    I:"Redwood Block"=1534
-    I:"Redwood Door"=1535
-    I:"Saguaro Cactus"=1536
-    I:"Sakura Door"=1537
-    I:"Sakura Leaves"=1538
-    I:Sapling=1539
-    I:Thornvines=1629
+    I:"Planks Block"=3262
+    I:"Purple Glowshroom"=3275
+    I:"Rare Leaves"=3278
+    I:"Rare Log"=3277
+    I:"Rare Sapling"=3279
+    I:"Redwood Bark Door"=3269
+    I:"Redwood Block"=3261
+    I:"Redwood Button"=3333
+    I:"Redwood Door"=3252
+    I:"Redwood Fence Gate"=3346
+    I:"Redwood Pressure Plate"=3307
+    I:"Redwood Stairs"=3294
+    I:"Redwood Trapdoor"=3320
+    I:"Saguaro Cactus"=3254
+    I:"Sakura Button"=3331
+    I:"Sakura Door"=3266
+    I:"Sakura Fence Gate"=3344
+    I:"Sakura Leaves"=3258
+    I:"Sakura Pressure Plate"=3305
+    I:"Sakura Stairs"=3292
+    I:"Sakura Trapdoor"=3318
+    I:Sapling=3256
+    I:"Silverbell Button"=3337
+    I:"Silverbell Fence Gate"=3350
+    I:"Silverbell Pressure Plate"=3312
+    I:"Silverbell Stairs"=3299
+    I:"Silverbell Trapdoor"=3325
+    I:Thornvines=3282
+    I:"Tigerwood Button"=3339
+    I:"Tigerwood Fence Gate"=3352
+    I:"Tigerwood Pressure Plate"=3313
+    I:"Tigerwood Stairs"=3300
+    I:"Tigerwood Trapdoor"=3326
     I:"Topiary Grass Block"=3286
     I:"Topiary Grass Slab"=3287
-    I:"Willow Log"=1630
-    I:"Wood Block"=1540
+    I:"Willow Button"=3340
+    I:"Willow Fence Gate"=3353
+    I:"Willow Log"=3280
+    I:"Willow Pressure Plate"=3314
+    I:"Willow Stairs"=3301
+    I:"Willow Trapdoor"=3327
+    I:"Wood Block"=3251
 }
 
 
@@ -52,7 +117,7 @@ block {
 ####################
 
 "boat item" {
-    I:item=20414
+    I:item=12405
 }
 
 
@@ -61,7 +126,7 @@ block {
 ####################
 
 disabler {
-    B:"Enable wheat to flour recipe"=false
+    B:"Enable wheat to flour recipe"=true
     B:"Generate Amaranth Trees"=true
     B:"Generate Ash Clouds"=true
     B:"Generate Barley Crops"=true
@@ -79,7 +144,7 @@ disabler {
     B:"Generate Hopseed Trees"=true
     B:"Generate Maloberry Bushes"=true
     B:"Generate Maple Trees"=true
-    B:"Generate Overworld Clouds"=false
+    B:"Generate Overworld Clouds"=true
     B:"Generate Raspberry Bushes"=true
     B:"Generate Redwood Trees"=true
     B:"Generate Saguaro Cactus"=true
@@ -92,7 +157,7 @@ disabler {
     B:"Generate Thornvines"=true
     B:"Generate Tigerwood Trees"=true
     B:"Generate Willow Trees"=true
-    B:"Override Nether"=true
+    B:"Override Nether"=false
 }
 
 
@@ -110,60 +175,79 @@ general {
 ####################
 
 item {
-    I:"Barley Seed"=20415
-    I:"Barley Seed Bag"=20400
-    I:"Berry Food"=20401
-    I:"Berry Medley"=20402
-    I:"Bloodwood Bow"=25090
+    I:"Barley Seed"=12403
+    I:"Barley Seed Bag"=12412
+    I:"Berry Food"=12402
+    I:"Berry Medley"=12417
+    I:"Bloodwood Bow"=12450
     I:"Bloodwood Hatchet"=12429
-    I:"Bloodwood Kama"=25095
+    I:"Bloodwood Kama"=12445
     I:"Bloodwood Pickaxe"=12427
     I:"Bloodwood Shovel"=12428
     I:"Bloodwood Sword"=12426
-    I:"Bonemeal Bag"=20403
-    I:"Cactus Juice"=20404
-    I:"Carrot Bag"=20405
-    I:"Cotton Seed Bag"=20406
-    I:"Darkwood Bow"=25088
+    I:"Bonemeal Bag"=12419
+    I:"Cactus Juice"=12407
+    I:"Carrot Bag"=12414
+    I:"Cotton Seed Bag"=12416
+    I:"Darkwood Bow"=12451
     I:"Darkwood Hatchet"=12433
-    I:"Darkwood Kama"=25092
+    I:"Darkwood Kama"=12446
     I:"Darkwood Pickaxe"=12431
     I:"Darkwood Shovel"=12432
     I:"Darkwood Sword"=12430
-    I:"Door Item"=20407
+    I:"Door Item"=12406
     I:"Empty Bowl"=12442
-    I:"Food Items"=20408
-    I:"Fusewood Bow"=25085
+    I:"Food Items"=12404
+    I:"Fusewood Bow"=12452
     I:"Fusewood Hatchet"=12437
-    I:"Fusewood Kama"=25091
+    I:"Fusewood Kama"=12447
     I:"Fusewood Pickaxe"=12435
     I:"Fusewood Shovel"=12436
     I:"Fusewood Sword"=12434
-    I:"Ghostwood Bow"=25086
-    I:"Ghostwood Hatchet"=25101
-    I:"Ghostwood Kama"=25094
-    I:"Ghostwood Pickaxe"=25098
-    I:"Ghostwood Shovel"=25100
-    I:"Ghostwood Sword"=31740
-    I:"Imp Boots"=25097
-    I:"Imp Helmet"=25103
-    I:"Imp Jerkin"=25089
-    I:"Imp Leggings"=25093
-    I:"Imp Meat"=25102
-    I:"Nether Berry Food"=20409
-    I:"Nether Wart Bag"=20410
-    I:"Nether foodstuffs"=25099
-    I:"Potato Bag"=20411
+    I:"Ghostwood Bow"=12449
+    I:"Ghostwood Hatchet"=12425
+    I:"Ghostwood Kama"=12444
+    I:"Ghostwood Pickaxe"=12423
+    I:"Ghostwood Shovel"=12424
+    I:"Ghostwood Sword"=12422
+    I:"Imp Boots"=12456
+    I:"Imp Helmet"=12453
+    I:"Imp Jerkin"=12454
+    I:"Imp Leggings"=12455
+    I:"Imp Meat"=12457
+    I:"Nether Berry Food"=12401
+    I:"Nether Wart Bag"=12415
+    I:"Nether foodstuffs"=12420
+    I:"Potato Bag"=12413
     I:"Quartz Axe"=12441
-    I:"Quartz Kama"=25096
+    I:"Quartz Kama"=12448
     I:"Quartz Pickaxe"=12439
     I:"Quartz Shovel"=12440
     I:"Quartz Sword"=12438
-    I:"Saguaro Fruit"=20412
-    I:"Spawn Egg"=25087
-    I:"Stew Bowl"=25083
-    I:Stick=31741
-    I:"Wheat Seed Bag"=20413
+    I:"Saguaro Fruit"=12418
+    I:"Spawn Egg"=12458
+    I:"Stew Bowl"=12443
+    I:Stick=12421
+    I:"Wheat Seed Bag"=12411
+}
+
+
+####################
+# mob changes
+####################
+
+"mob changes" {
+    I:"Maximum Baby Heatscar Spiders on Spider Death"=4
+    I:"Minimum Baby Heatscar Spiders on Spider Death"=2
+}
+
+
+####################
+# retrogen
+####################
+
+retrogen {
+    B:"Retroactive Generation"=false
 }
 
 
@@ -173,10 +257,10 @@ item {
 
 terrain {
     # Requires blockID < 256
-    I:"Heat Sand"=252
+    I:"Heat Sand"=249
 
     # Requires blockID < 256
-    I:"Tainted Soil"=253
+    I:"Tainted Soil"=250
 }
 
 
@@ -194,9 +278,6 @@ worldgen {
     I:"Blightberry Spawn Range"=100
     I:"Blightberry Spawn Rarity"=18
     I:"Blood Tree Spawn Rarity"=14
-    I:"Bloodwood Tree Spawn Height"=32
-    I:"Bloodwood Tree Spawn Range"=64
-    I:"Bloodwood Tree Spawn Rarity"=14
     I:"Blueberry Spawn Range"=64
     I:"Blueberry Spawn Rarity"=34
     I:"Bush Tree Spawn Range"=20
@@ -205,17 +286,12 @@ worldgen {
     I:"Cloud Spawn Range"=48
     I:"Cloud Spawn Rarity"=10
     I:"Dark Cloud Spawn Density"=10
-    I:"Dark Cloud Spawn Height"=64
     I:"Dark Cloud Spawn MinX"=0
-    I:"Dark Cloud Spawn Range"=128
-    I:"Dark Cloud Spawn Rarity"=10
+    I:"Dark Cloud Spawn Range"=256
     I:"Darkwood Tree Spawn Rarity"=10
     I:"Duskberry Spawn Range"=100
     I:"Duskberry Spawn Rarity"=18
     I:"Fusewood Tree Spawn Rarity"=50
-    I:"Ghost Tree Spawn Height"=16
-    I:"Ghost Tree Spawn Range"=80
-    I:"Ghost Tree Spawn Rarity"=25
     I:"Ghostwood Tree Spawn Rarity"=10
     I:"Maloberry Spawn Range"=64
     I:"Maloberry Spawn Rarity"=40
