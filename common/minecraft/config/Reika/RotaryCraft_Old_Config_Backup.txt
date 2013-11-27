@@ -1,0 +1,169 @@
+#####----------THESE ARE ALL THE OLD CONFIG SETTINGS YOU WERE USING----------#####
+#####---IF THEY DIFFER FROM THE DEFAULTS, YOU MUST RE-EDIT THE CONFIG FILE---#####
+Engine Running Sounds: true
+GPR Renders Ores: false
+Instant Woodcutter: false
+Show Force Fields: true
+Allow Craftable Bedrock: true
+Console Loading Info: true
+Owner-Only Machine Use: false
+Machine Volume Multiplier: 1.0
+Max Floodlight Range: 128
+Max Heat Ray Range: 128
+Max Bridge Range: 128
+Max Fan Range: 128
+Max Aerosolizer Range: 128
+Max Vacuum Range: 128
+Max Sonic Weapon Range: 128
+Max Force Field Range: 128
+Sonic Borer Range: 512
+Spawner Mob Limit: 128
+Player Detector Range: 128
+Breeder Range: 128
+Bait Box Range: 128
+Block Ram Range: 512
+Max Bait Box Mob Count: 256
+Cave Scanner FOV: 16
+Debug Mode: false
+Enable Achievements: false
+Force Inter-Mod Ore Compatibility: true
+Allow Bedrock Pickaxe to Harvest Spawners: true
+Spawn Mobs When Harvesting Spawners By Hand: true
+Direct Block Damage from Machines and Failures: true
+Difficulty Control: 2
+Machine Warning Alarms: false
+Terraformer Block Editing: true
+Reload Handbook Data on Open: false
+Crafting Table can Make Machines: false
+EMP Charging Speed: 4
+Rotate Hose/Pipe/Fuel Line Recipes: false
+Railgun Block Damage: true
+Allow Gravel Gun PvP: true
+Chest Generation Tier: 4
+Crash on hostile interference from other mods: true
+Render projector lines: true
+Color Blind Mode: false
+Advanced Gears: 490
+D-Type Machines: 491
+DMI-Type Machines: 492
+DM-Type Machines: 493
+Engines: 494
+GPR: 495
+Flywheels: 496
+Gearboxes: 497
+I-Type Machines: 498
+Basic Machines: 499
+MI-Type Machines: 500
+M-Type Machines: 501
+Piping: 502
+Shaft: 503
+Transmission: 504
+MI-Machines 2: 505
+Solar Receiver: 506
+BuildCraft Interface: 507
+M-Machines 2: 508
+Screwdriver: 30500
+Angular Transducer: 30501
+Magic Wand: 30502
+WorldEdit Tool: 30503
+RotaryCraft Handbook: 30504
+Yeast: 30505
+Ethanol Crystals: 30506
+Canola Seeds: 30507
+Wind Spring: 30508
+Ultrasound: 30509
+Motion Tracker: 30510
+Vacuum: 30511
+Knockback Gun: 30512
+Gravel Gun: 30513
+Fireball Launcher: 30514
+Bedrock Pickaxe: 30515
+Bedrock Axe: 30516
+Bedrock Shovel: 30517
+Night Vision Goggles: 30518
+Night Vision Helmet: 30519
+Handheld Crafting Tool: 30520
+RailGun Ammunition: 30521
+Bucket: 30522
+TNT Cannon Targeting Aid: 30523
+I/O Goggles: 30524
+Projector Slide: 30525
+Cannon Key: 30526
+Explosive Shell: 30527
+Ethanol Minecart: 30528
+Bedrock Helmet: 30529
+Bedrock Chestplate: 30530
+Bedrock Leggings: 30531
+Bedrock Boots: 30532
+Tile Selector: 30533
+Bedrock Jetpack: 30534
+HSLA Steel Pickaxe: 30535
+HSLA Steel Axe: 30536
+HSLA Steel Shovel: 30537
+HSLA Steel Helmet: 30538
+HSLA Steel Chestplate: 30539
+HSLA Steel Leggings: 30540
+HSLA Steel Boots: 30541
+High-Strength Spring: 30542
+Ethanol Jetpack: 30543
+MAKESTEEL: 24000
+MAKEYEAST: 24001
+EXTRACTOR: 24002
+BORER: 24003
+RECYCLE: 24004
+MAKEJET: 24005
+MAKERAILGUN: 24006
+SUCKEDINTOJET: 24007
+BEDROCKBREAKER: 24008
+STEAMENGINE: 24009
+STEELSHAFT: 24010
+CVT: 24011
+BEDROCKSHAFT: 24012
+BEDROCKTOOLS: 24013
+JETFUEL: 24014
+JETCHICKEN: 24015
+JETFAIL: 24016
+LIGHTFALL: 24017
+SPRINKLER: 24018
+FLOODLIGHT: 24019
+DAMAGEGEARS: 24020
+DIAMONDGEARS: 24021
+MRADS32: 24022
+GIGAWATT: 24023
+TNTCANNON: 24024
+RAILDRAGON: 24025
+RAILKILLED: 24026
+GRAVELGUN: 24027
+LANDMINE: 24028
+GPRENDPORTAL: 24029
+NETHERHEATRAY: 24030
+GPRSPAWNER: 24031
+CUTKNOT: 24032
+Machine Items: 30616
+Heat Ray Crafting Items: 30628
+Engine Crafting Items: 30629
+Borer Crafting Items: 30630
+Shaft Crafting Items: 30631
+Extractor Items: 30632
+Compactor Items: 30633
+Engine Items: 30634
+Powders: 30635
+Spawner: 30636
+Pipe Items: 30637
+Shaft Items: 30639
+Gearbox Items: 30640
+Gear Units: 30641
+Advanced Gear Items: 30642
+Flywheel Items: 30643
+Mod Ore Extractor Items: 30644
+Mod Ore Ingots: 30645
+Deco Block: 4083
+Bedrock Slice: 4082
+LightBlock: 4081
+Canola: 4080
+Mining Pipe: 4079
+Light Bridge: 4078
+Blast Glass Pane: 4077
+Blast Glass: 4076
+Beam Block: 4075
+Water Block: 4074
