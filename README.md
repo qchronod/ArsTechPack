@@ -11,7 +11,7 @@ Installation instructions
 2. Download and run the Forge 953 installer (and it should point to the default MC location)
 3. Create a new profile in the Mojang launcher, and tell it to use the forge version you just installed
 4. Run the new profile to make sure it's set up and says you have forge installed
-5. Download and extract the latest test pack (it has everything already in the approriate folders)
+5. Download and extract the latest test pack into the new profile folder (it has everything already in the approriate folders)
 6. Log into the server
 7. ????
 8. PROFIT!!!
