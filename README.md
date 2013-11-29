@@ -15,7 +15,7 @@ Enough with the don'ts:
 - Log into IRC: irc.arstechnica.com #minecraft
 - Dig deeper, build taller, and have fun.
 
-Installation Instructions 
+1.5 Installation Instructions 
 ---------------------------------------
     by Minstrel 
 
