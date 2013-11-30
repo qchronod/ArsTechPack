@@ -12,10 +12,6 @@ https://github.com/qchronod/ArsTechPack/wiki/1.6-Pack-Installation
 
 1.6.4 test builds
 -----------------
-Alpha 3
-
-2013/11/30 - Nearly doubled the number of installed mods. Managed to get almost everything that we could possibly want added. Please look through the files in the mod folder and let me know if anything important is missing.
-
 
 Alpha 2
 
