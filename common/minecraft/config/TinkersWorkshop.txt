@@ -1,6 +1,15 @@
 # Configuration file
 
 ####################
+# achievement properties
+####################
+
+"achievement properties" {
+    B:AchievementsEnabled=true
+}
+
+
+####################
 # battlegear
 ####################
 
@@ -25,8 +34,10 @@ block {
     I:"Crafting Slab"=3243
     I:"Crafting Station"=3233
     I:"Drying Rack"=3227
-    I:"Essence Extractor"=3234
+    I:"Furnace Slab"=3192
     I:"Glass Pane"=3228
+    I:"Glue Block"=3219
+    I:"Glue Fluid Block"=3220
     I:"Held Item Block"=1472
     I:"Jungle Barricade"=1487
     I:Landmine=1470
@@ -66,7 +77,6 @@ block {
     I:"Ores Gravel"=1488
     I:"Ores Slag"=1475
     I:Punji=3232
-    I:"Redstone Machines"=3226
     I:SDX=3247
     I:"Seared Slab"=3230
     I:"Seared Table"=1477
@@ -113,7 +123,6 @@ block {
     B:"Enable mod wooden tools"=true
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
-    B:"Lower bronze output to 2 ingots"=false
     B:"Modifiers increase Mining Level"=true
     B:"Remove Vanilla Tool Recipes"=false
     B:"Spawn beginner book"=true
@@ -160,6 +169,7 @@ equipables {
 ####################
 
 experimental {
+    B:"Allow horses to be melted down for glue"=true
     B:"Items can be thrown into smelteries"=true
 
     # Warning: Very buggy
@@ -194,7 +204,6 @@ looks {
     I:"Armor Pattern"=14025
     I:"Blank Patterns"=14019
     I:Buckets=14101
-    I:"Essence Crystal"=14114
     I:"Golden Head"=14113
     I:Jerky=14115
     I:"Jeweled Apple"=14107
@@ -207,6 +216,31 @@ looks {
     I:"Tool Rod"=14021
     I:"Tool Shard"=14022
     I:"Wood Pattern"=14023
+}
+
+
+####################
+# smeltery output modification
+####################
+
+"smeltery output modification" {
+    # Number of ingots returned from smelting Aluminum Brass in the smeltery
+    I:"Aluminum Brass ingot return"=4
+
+    # Number of ingots returned from smelting Alumite in the smeltery
+    I:"Alumite ingot return"=3
+
+    # Number of ingots returned from smelting Bronze in the smeltery
+    I:"Bronze ingot return"=3
+
+    # Number of ingots returned from smelting ores in the smeltery
+    I:"Ingots per ore"=2
+
+    # Number of ingots returned from smelting Manyullyn in the smeltery
+    I:"Manyullyn ingot return"=1
+
+    # Number of ingots returned from smelting Pig Iron in the smeltery
+    I:"Pig Iron ingot return"=1
 }
 
 

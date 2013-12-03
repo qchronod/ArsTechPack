@@ -144,7 +144,7 @@ disabler {
     B:"Generate Hopseed Trees"=true
     B:"Generate Maloberry Bushes"=true
     B:"Generate Maple Trees"=true
-    B:"Generate Overworld Clouds"=true
+    B:"Generate Overworld Clouds"=false
     B:"Generate Raspberry Bushes"=true
     B:"Generate Redwood Trees"=true
     B:"Generate Saguaro Cactus"=true
@@ -157,7 +157,7 @@ disabler {
     B:"Generate Thornvines"=true
     B:"Generate Tigerwood Trees"=true
     B:"Generate Willow Trees"=true
-    B:"Override Nether"=false
+    B:"Override Nether"=true
 }
 
 
