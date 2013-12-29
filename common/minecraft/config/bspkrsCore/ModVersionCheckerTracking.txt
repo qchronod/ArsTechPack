@@ -2,7 +2,7 @@
 
 version_check_tracker {
     S:StatusEffectHUD=v1.19(1.6.4)
-    S:Treecapitator=Forge 1.6.4.r09
+    S:Treecapitator=Forge 1.6.4.r07
     S:bspkrsCore=v5.2(1.6.4)
 }
 
