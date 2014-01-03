@@ -32,11 +32,34 @@
                 <stoneSword id="272"/>
                 <goldSword id="283"/>
                 <woodSword id="268"/>
+				<QuartzSword id="4369"/>
+				<steelSword id="7827"/>
+				<rubySword id="9365"/>
+				<sapphireSword id="9366"/>
+				<peridotSword id="9368"/>
+				<ethericSword id="10261"/>
+				<Broadsword id="14311"/>
+				<Longsword id="14312"/>
+				<Cleaver id="14324"/>
+				<Cutlass id="14328"/>
+				<Rapier id="14313"/>
+				<bloodSword id="2422"/>
+				<ironwoodSword id="27979"/>
+				<fierySword id="27995"/>
+				<steeleafSword id="28003"/>
+				<knightlySword id="28038"/>
+				<NanoSaber id="30149"/>
             </sword>
             <munition>
                 <bow id="261"/>
+				<ghostwoodbow id="261"/>
+				<bloodwoodbow id="261"/>
+				<darkwoodbow id="261"/>
+				<shortbow id="14319"/>
+				<tinkerArrow id="14329"/>
                 <arrow id="262"/>
                 <snowball id="332"/>
+				<Dagger id="14321"/>
             </munition>
         </weapon>
         <tool>
@@ -46,6 +69,25 @@
                 <ironPickaxe id="257"/>
                 <stonePickaxe id="274"/>
                 <woodPickaxe id="270"/>
+				<QuartzPickaxe id="4368"/>
+				<steelPickaxe id="7824"/>
+				<rubyPickaxe id="9359"/>
+				<sapphirePickaxe id="9360"/>
+				<peridotPickaxe id="9361"/>
+				<destructionPickaxe id="10263"/>
+				<tinkerPickaxe id="14307"/>
+				<tinkerHammer id="14326"/>
+				<RFPickaxe id="20761"/>
+				<amethystPickaxe id="21286"/>
+				<thaumiumPickaxe id="25322"/>
+				<elementalPickaxe id="25329"/>
+				<ironwoodPickaxe id="27981"/>
+				<fieryPickaxe id="27997"/>
+				<steeleafPickaxe id="28005"/>
+				<knightlyPickaxe id="28039"/>
+				<electricDrill id="30235"/>
+				<diamondDrill id="30234"/>
+				<iridiumDrill id="30244"/>
             </pickaxe>
             <shovel>
                 <goldShovel id="284"/>
@@ -53,6 +95,20 @@
                 <ironShovel id="256"/>
                 <stoneShovel id="273"/>
                 <woodShovel id="269"/>
+				<quartzShovel id="4367"/>
+				<steelShovel id="7826"/>
+				<rubyShovel id="9362"/>
+				<sapphireShovel id="9363"/>
+				<peridotShovel id="9364"/>
+				<erosionShovel id="10262"/>
+				<tinkerShovel id="14308"/>
+				<tinkerMattock id="14316"/>
+				<tinkerExcavator id="14325"/>
+				<RFShovel id="20760"/>
+				<thaumiumShovel id="25321"/>
+				<elementalShovel id="25328"/>
+				<ironwoodShovel id="27980"/>
+				<steeleafShovel id="28004"/>
             </shovel>
             <axe>
                 <goldAxe id="286"/>
@@ -60,6 +116,23 @@
                 <ironAxe id="258"/>
                 <stoneAxe id="275"/>
                 <woodAxe id="271"/>
+				<quartzAxe id="4365"/>
+				<steelAxe id="7822"/>
+				<rubyAxe id="9353"/>
+				<sapphireAxe id="9354"/>
+				<peridotAxe id="9355"/>
+				<defoliageAxe id="10264"/>
+				<tinkerAxe id="14309"/>
+				<tinkerLumberAxe id="14317"/>
+				<tinkerBattleAxe id="14327"/>
+				<RFAxe id="20762"/>
+				<thaumiumAxe id="25323"/>
+				<elementalAxe id="25330"/>
+				<ironwoodAxe id="27982"/>
+				<knightlyAxe id="28040"/>
+				<minotaurAxe id="31957"/>
+				<steeleafAxe id="31959"/>
+				<electricChainsaw id="30233"/>
             </axe>
             <hoe>
                 <goldHoe id="294"/>
@@ -67,10 +140,49 @@
                 <ironHoe id="291"/>
                 <stoneHoe id="292"/>
                 <woodHoe id="290"/>
+				<quartzHoe id="4366"/>
+				<steelHoe id="7823"/>
+				<rubyHoe id="9356"/>
+				<sapphireHoe id="9357"/>
+				<peridotHoe id="9358"/>
+				<temporalHoe id="10265"/>
+				<amethystHoe id="21288"/>
+				<thaumiumHoe id="25325"/>
+				<elementalHoe id="25331"/>
+				<ironwoodHoe id="27983"/>
+				<steeleafHoe id="31958"/>
+				<electricHoe id="30119"/>
             </hoe>
-            <shears id="359"/>
+			<shears id="359"/>
             <fishingRod id="346"/>
             <carrotOnAStick id="398"/>
+			<quartzWrench id="4370"/>
+			<quartzCuttingknife id="4371"/>
+			<crowbar id="7817"/>
+			<crowbarmagic id="7818"/>
+			<crowbarreinforced id="7819"/>
+			<builderswand id="10259"/>
+			<ThaumcraftWand id="25266"/>
+			<scepterZombie id="31964"/>
+			<scepterLifeDrain id="31965"/>
+			<scepterTwilight id="31966"/>
+			<TinkerTool>
+				<tinkerFryPan id="14314"/>
+				<tinkerBattleSign id="14315"/>
+				<potionLauncher id="14320"/>
+				<tinkerChisel id="14322"/>
+				<tinkerScythe id="14323"/>
+			</scythe>
+			<TEwrench id="20757"/>
+			<battlewrench id="20758"/>
+			<sickle id="20763"/>
+			<IC2Hammer id="30040"/>
+			<electricTreeTap id="30124"/>
+			<electricWrench id="30140"/>
+			<IC2Cutter id="30153"/>
+			<IC2Meter id="30182"/>
+			<IC2Wrench id="30183"/>
+			<IC2treetap id="30212"/>
         </tool>
         <armor>
             <helmet>
@@ -79,6 +191,22 @@
                 <ironHelmet id="306"/>
                 <goldHelmet id="314"/>
                 <leatherHelmet id="298"/>
+				<goggles id="7756"/>
+				<steelHelmet id="7759"/>
+				<impHelmet id="12709"/>
+				<woodHelmet id="14362"/>
+				<exoGoggles id="17372"/>
+				<flowerBand id="21271"/>
+				<mudHelmet id="21280"/>
+				<amethystHemlet id="21290"/>
+				<gogglesofRevealing id="25316"/>
+				<thaumiumHelmet id="25317"/>
+				<knightlyHelm id="28034"/>
+				<NVgoogles id="30078"/>
+				<hazmatHelmet id="30082"/>
+				<solarHelmet id="30116"/>
+				<quantumHelmet id="30174"/>
+				<nanoHelmet id="30178"/>
             </helmet>
             <chestplate>
                 <diamondChestplate id="311"/>
@@ -86,6 +214,24 @@
                 <ironChestplate id="307"/>
                 <goldChestplate id="315"/>
                 <leatherChestplate id="299"/>
+				<steelChestplate id="7761"/>
+				<impChestplate id="12710"/>
+				<woodChestplate id="14364"/>
+				<exoChest id="14373"/>
+				<mudChestplate id="21281"/>
+				<amethystChestplate id="21291"/>
+				<hoverHarness id="25301"/>
+				<thaumiumChestplate id="25318"/>
+				<robeChestplate id="25332"/>
+				<knightlyPlate id="28035"/>
+				<BatteryPack id="30180"/>
+				<Jetpack id="30210"/>
+				<electricJetpack id="30209"/>
+				<hazmatChestplate id="30081"/>
+				<Lappack id="30127"/>
+				<quantumChest id="30173"/>
+				<nanoChest id="30177"/>
+				<nagaPlate id="31968"/>
             </chestplate>
             <leggings>
                 <diamondLeggings id="312"/>
@@ -93,6 +239,19 @@
                 <ironLeggings id="308"/>
                 <goldLeggings id="316"/>
                 <leatherLeggings id="300"/>
+				<steelLeggings id="7760"/>
+				<impLeggings id="12711"/>
+				<woodLeggings id="14365"/>
+				<exoPants id="14374"/>
+				<mudLeggings id="21282"/>
+				<amethystLeggings id="21292"/>
+				<thaumiumLeggings id="25319"/>
+				<robeLeggings id="25333"/>
+				<knightlyLegs id="28036"/>
+				<hazmatLeggings id="30080"/>
+				<quantumLegs id="30172"/>
+				<nanoLegs id="30176"/>
+				<nagaLegs id="31967"/>
             </leggings>
             <boots>
                 <diamondBoots id="313"/>
@@ -100,6 +259,22 @@
                 <ironBoots id="309"/>
                 <goldBoots id="317"/>
                 <leatherBoots id="301"/>
+				<steelBoots id="7758"/>
+				<impBoots id="12712"/>
+				<woodBoots id="14366"/>
+				<exoShoes id="14375"/>
+				<wadingBoots id="21269"/>
+				<flippers id="21270"/>
+				<mudBoots id="21283"/>
+				<amethystBoots id="21293"/>
+				<thaumiumBoots id="25320"/>
+				<travellerBoots id="25326"/>
+				<robeBoots id="25334"/>
+				<knightlyBoots id="28037"/>
+				<staticBoots id="30115"/>
+				<quantumBoots id="30171"/>
+				<nanoBoots id="30175"/>
+				<rubberBoots id="30211"/>
             </boots>
         </armor>
     </equipment>
@@ -110,7 +285,9 @@
                 <cobblestone id="4"/>
                 <mossStone id="48"/>
                 <endStone id="121"/>
-                <whiteStone id="121"/>
+                <sandStone id="24"/>
+				<ProjRedStone id="2131"/>
+				<TFMazestone id="2165"/>
             </stones>
             <oreBlock>
                 <coalOreBlock id="16"/>
@@ -118,6 +295,7 @@
                 <lapisLazuliOreBlock id="21"/>
                 <diamondOreBlock id="56"/>
                 <emeraldOreBlock id="129"/>
+				<ProjRedOre id="2130"/>
             </oreBlock>
             <dirt id="3"/>
             <wood>
