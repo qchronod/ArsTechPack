@@ -3,12 +3,7 @@ ArsTechPack
 
 Unofficial semi-private mod pack
 
-Installation instructions
--------------------------
-!!!!! MultiMC no longer works with 1.6 !!!!!!!
+Super early setup build for the eventual 1.7 update
 
-https://github.com/qchronod/ArsTechPack/wiki/1.6-Pack-Installation
-
-
-1.6.4 Mod Pack
-Requires Forge build 965
+I just grabbed a bunch of mods listed on the MCF Mod List
+http://modlist.mcf.li/version/1.7.2
