@@ -52,10 +52,12 @@
             </sword>
             <munition>
                 <bow id="261"/>
-				<ghostwoodbow id="261"/>
-				<bloodwoodbow id="261"/>
-				<darkwoodbow id="261"/>
-				<shortbow id="14319"/>
+				<ghostwoodBow id="12705"/>
+				<bloodwoodBow id="12706"/>
+				<darkwoodBow id="12707"/>
+				<darkwoodBow id="12708"/>
+				<fusewoodBow id="12709"/>
+				<tinkerBow id="14319"/>
 				<tinkerArrow id="14329"/>
                 <arrow id="262"/>
                 <snowball id="332"/>
@@ -172,9 +174,9 @@
 				<potionLauncher id="14320"/>
 				<tinkerChisel id="14322"/>
 				<tinkerScythe id="14323"/>
-			</scythe>
-			<TEwrench id="20757"/>
-			<battlewrench id="20758"/>
+			</TinkerTool>
+			<TEwrench id="20257"/>
+			<TEmultimeter id="20758"/>
 			<sickle id="20763"/>
 			<IC2Hammer id="30040"/>
 			<electricTreeTap id="30124"/>
@@ -525,17 +527,29 @@
             </rails>
             <lighting>
                 <torch id="50"/>
+				<stonetorch id="1484"/>
                 <lamp id="123"/>
                 <redstoneLamp id="123"/>
                 <lamp id="124"/>
                 <redstoneLamp id="124"/>
+				<stonelamp id="479"/>
+				<lamp id="2132"/>
+				<fancylamp id="2240"/>
+				<cagelamp id="9295"/>
+				<invcagelamp id="9296"/>
             </lighting>
             <pistons>
                 <piston id="33"/>
                 <stickyPiston id="29"/>
                 <pistonHead id="34"/>
             </pistons>
-            <lever id="69"/>
+			<switch>
+			    <lever id="69"/>
+				<goldswitch id="1121"/>
+				<ironswitch id="1122"/>
+				<emeraldswitch id="1123"/>
+				<diamondswitch id="1124"/>
+			</switch>
             <pressurePlates>
                 <pressurePlateWood id="72"/>
                 <pressurePlateStone id="70"/>
@@ -543,10 +557,13 @@
                     <weightedPressurePlateLight id="147"/>
                     <weightedPressurePlateHeavy id="148"/>
                 </weightedPressurePlates>
+				<pressurePlateObsidian id="123"/>
             </pressurePlates>
             <buttons>
                 <stoneButton id="77"/>
                 <woodenButton id="143"/>
+				<bigbutton id="2555"/>
+				<illumarbutton id="9294"/>
             </buttons>
             <doors>
                 <doorWood id="324"/>
@@ -665,6 +682,7 @@
     <item>
         <utility>
             <torch id="50"/>
+			<stonetorch id="1484"/>
             <flintAndSteel id="259"/>
             <craftingTable id="58"/>
             <furnace id="61"/>
@@ -741,13 +759,32 @@
         </decoration>
         <food>
             <edibleFood>
-                <mushroomStew id="282"/>
+				<foodbowl>
+				    <mushroomStew id="282"/>
+					<medleyBerries id="12673"/>
+					<glowshroomStew id="12699" damage="14"/>
+					<fruitSalad id="21265" damage="4"/>
+					<veggieSalad id="21265" damage="5"/>
+					<shroomSalad id="21265" damage="6"/>
+					<meefStew id="31952"/>
+				</foodbowl>
                 <cookedFood>
                     <cookedPorkchop id="320"/>
                     <cookedFish id="350"/>
-                    <steak id="364"/>
+                    <steakBeef id="364"/>
                     <cookedChicken id="366"/>
                     <bakedPotato id="393"/>
+					<cookedMeatIngot id="12282"/>
+					<cookedMeatNugget id="12284"/>
+					<cookedImpmeat id="12713" damage="1"/>
+					<Jerky id="14371"/>
+					<chickenNugget id="25357"/>
+					<beefNugget id="25358"/>
+					<porkNugget id="25359"/>
+					<fishNugget id="25360"/>
+					<tripleMeatTreat id="25361"/>
+					<steakVenison id="27987"/>
+					<cookedMeef id="31953"/>
                 </cookedFood>
                 <bread id="297"/>
                 <pumpkinPie id="400"/>
@@ -759,6 +796,8 @@
                 <apple>
                     <appleRed id="260"/>
                     <appleGolden id="322"/>
+					<applePotash id="12676"/>
+					<appleJeweled id="14363"/>
                 </apple>
                 <cookie id="357"/>
                 <rawFood>
@@ -767,12 +806,29 @@
                     <rawBeef id="363"/>
                     <rawChicken id="365"/>
                     <potato id="392"/>
+					<rawMeatIngot id="12281"/>
+					<rawMeatNugget id="12283"/>
+					<rawImpmeat id="12713"/>
+					<rawVenison id="27986"/>
+					<rawMeef id="31954"/>
                 </rawFood>
+				<berries>
+				    <blightBerry id="12657" damagevalue="0"/>
+					<duskBerry id="12657" damagevalue="1"/>
+					<skyBerry id="12657" damagevalue="2"/>
+					<stingBerry id="12657" damagevalue="3"/>
+					<raspBerry id="12658" damagevalue="0"/>
+					<blueBerry id="12658" damagevalue="1"/>
+					<blackBerry id="12658" damagevalue="2"/>
+					<maloBerry id="12658" damagevalue="3"/>
+					<saguaroFruit id="12674"/>
+				</berries>
+				<GoldenHead id="14369"/>
+				<cake id="354"/>
             </edibleFood>
             <poisonedFood>
                 <rottenFlesh id="367"/>
                 <spiderEye id="375"/>
-                <poisonedPotato id="394"/>
                 <poisonousPotato id="394"/>
             </poisonedFood>
             <unedibleFood>
